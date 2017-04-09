@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "524537141915",
+    "firebase_url": "https://bdexam-27de4.firebaseio.com",
+    "project_id": "bdexam-27de4",
+    "storage_bucket": "bdexam-27de4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524537141915:android:05c4195328d6b42a",
+        "android_client_info": {
+          "package_name": "com.harbingerstudio.bdexam.bdexam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524537141915-b4klr2ld70shmj36163st5936bgca8v2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harbingerstudio.bdexam.bdexam",
+            "certificate_hash": "5aa6442f516d1392897de167efd6d80f3e036859"
+          }
+        },
+        {
+          "client_id": "524537141915-k8nd8kgcse86ag9oab8jcc2uk1i3uife.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvN_wBnxywYN3b3HCI1oGcCKUio4UG0pQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524537141915-k8nd8kgcse86ag9oab8jcc2uk1i3uife.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
